@@ -211,3 +211,6 @@ __marimo__/
 
 # Local run logs
 .OTTER_LOG
+
+# Raw dataset files (.ubyte)
+*ubyte
